@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "courseName": "IFT 101",
+        "image": "📚",
+        "from": "Information Technology",
+        "instructor": "David Alderman, Tatiana Walsh",
+        "credits": "4",
+        "description": "Introduction to Information Technology"
+    },
+    {
+        "id": 1,
+        "courseName": "INT 601",
+        "image": "🕉",
+        "from": "Management",
+        "instructor": "David Alderman, Tatiana Walsh",
+        "credits": "3",
+        "description": "International Culture"
+      },
+      {
+        "id": 2,
+        "courseName": "IFT 201",
+        "image": "📯",
+        "from": "Information Technology",
+        "instructor": "David Alderman, Tatiana Walsh",
+        "credits": "3",
+        "description": "Virtualization"
+      },
+      {
+        "id": 3,
+        "courseName": "ART 300",
+        "image": "😱",
+        "from": "Arts",
+        "instructor": "David Alderman, Tatiana Walsh",
+        "credits": "3",
+        "description": "Virtualization"
+      },
+      {
+        "id": 4,
+        "course": "INC 401",
+        "image": "🐇",
+        "from": "Veterinary  Science",
+        "instructor": "David Alderman, Tatiana Walsh",
+        "credits": "3",
+        "description": "Animal Science"
+      }
+]

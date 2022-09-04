@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "customerName": "Lisa",
+        "phoneNumber": "6028150012",
+        "address": "707S Forest Ave, Tempe, AZ, USA",
+        "loanAmount": "250",
+        "interest": "0.06",
+        "loanTermYears": "4",
+        "loanType": "Personal Loans",
+        "description": "Lisa's loan information"
+    },
+    {
+        "id": 1,
+        "customerName": "Timmy",
+        "phoneNumber": "6028150054",
+        "address": "15S Ave, Kingston, New York, USA",
+        "loanAmount": "500",
+        "interest": "0.02",
+        "loanTermYears": "3",
+        "loanType": "Auto Loans",
+        "description": "Timmy's loan information"
+    },
+    {
+      "id": 2,
+      "customerName": "Alice",
+      "phoneNumber": "6028150017",
+      "address": "750N Forest Ave, Tampa, FL, USA",
+      "loanAmount": "450",
+      "interest": "0.05",
+      "loanTermYears": "5",
+      "loanType": "Personal Loans",
+      "description": "Alice's loan information"
+      },
+      {
+        "id": 3,
+        "customerName": "Haoze",
+        "phoneNumber": "6028150014",
+        "address": "101 Lemon Ave, Tempe, AZ, USA",
+        "loanAmount": "1050",
+        "interest": "0.08",
+        "loanTermYears": "4",
+        "loanType": "Auto Loans",
+        "description": "Haoze's loan information"
+      },
+      {
+        "id": 4,
+        "customerName": "Shanyin",
+        "phoneNumber": "6028150022",
+        "address": "201S Oakland Ave, Houston, TX, USA",
+        "loanAmount": "650",
+        "interest": "0.03",
+        "loanTermYears": "6",
+        "loanType": "Personal Loans",
+        "description": "Shanyin's loan information"
+      }
+]
