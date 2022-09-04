@@ -1,0 +1,11 @@
+{
+  "name": "project-m1-simpleserver",
+  "version": "1.0.0",
+  "description": "Our First Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IFT Instructor",
+  "license": "ISC"
+}
